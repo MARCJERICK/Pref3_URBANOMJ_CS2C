@@ -6,12 +6,12 @@ let car = {
 };
 
 //Use typeof to check the type of the object and log it to the console
-console.log(typeof car); // Logs "object"
+console.log(typeof car);
 
 //Update the type property to "Toyota"
 car.type = "Honda";
-console.log(car); // Logs{ type: "Toyota", model: "Corolla", color: "Blue" }
+console.log(car);
 
 //Add a new property wheels with the value 4
 car.wheels = 4;
-console.log(car); // Logs{ type: "Toyota", model: "Corolla", color: "Blue", wheels: 4 }
+console.log(car);

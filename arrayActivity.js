@@ -11,7 +11,7 @@ let favNumbers = [4, 16, 20, 19];
 let mixedArr = ["string", ["otherarray"], 123, true];
 
 // Access and log each item in mixedArr using array index notation
-console.log(mixedArr[0]); // Logs "string"
-console.log(mixedArr[1]); // Logs ["otherarray"]
-console.log(mixedArr[2]); // Logs 123
-console.log(mixedArr[3]); // Logs true
+console.log(mixedArr[0]);
+console.log(mixedArr[1]);
+console.log(mixedArr[2]);
+console.log(mixedArr[3]);
